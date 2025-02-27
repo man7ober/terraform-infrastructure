@@ -1,0 +1,5 @@
+01 - terraform plan
+
+02 - terraform apply
+
+03 - terraform destroy

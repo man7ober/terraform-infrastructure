@@ -1,0 +1,3 @@
+01 - terraform state list
+
+02 - terraform state show type.resource_name

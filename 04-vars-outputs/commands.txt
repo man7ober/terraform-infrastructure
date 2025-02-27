@@ -1,0 +1,5 @@
+01 - terraform plan -var="filename=my-file"
+
+02 - terraform plan -var-file="main.tfvars"
+
+03 - export TF_VAR_filename="my-file" # recommended
